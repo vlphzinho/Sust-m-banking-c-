@@ -1,4 +1,4 @@
-# creating, from a simple banking system in C#, an incomplete banking system
+# creating, from a simple banking system in C#, an incomplete banking system,simulates a bank account, does not work
 
 
 options, pay, deposit, withdraw, exit, 
